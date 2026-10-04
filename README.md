@@ -1,2 +1,3 @@
-# churn-prediction
-Customer churn prediction with XGBoost, SHAP and a Streamlit app
+   # Customer Churn Prediction
+
+   **Live demo:**    https://salman-churn-predictor.streamlit.app/
